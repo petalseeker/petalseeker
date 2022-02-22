@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @petalseeker
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning in Phyton
+- 👀 I’m interested in Software Engineer
+- 🌱 I’m currently learning in Golang
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me twitter @petalseeker
 
